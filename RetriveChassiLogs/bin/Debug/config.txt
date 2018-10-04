@@ -1,0 +1,5 @@
+DeviceID: 47ed13d6-670b-11e7-97b9-ddf495661da1
+ComputerName: GOT100HXRVPF2
+UserID: ktvarno
+Password: CenterHack1!!
+Write to Excel default on: Yes

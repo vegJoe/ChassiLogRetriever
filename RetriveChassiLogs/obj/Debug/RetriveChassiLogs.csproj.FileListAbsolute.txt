@@ -1,0 +1,32 @@
+C:\Users\ktvarno\source\repos\RetriveChassiLogs\RetriveChassiLogs\bin\Debug\RetriveChassiLogs.exe.config
+C:\Users\ktvarno\source\repos\RetriveChassiLogs\RetriveChassiLogs\bin\Debug\RetriveChassiLogs.exe
+C:\Users\ktvarno\source\repos\RetriveChassiLogs\RetriveChassiLogs\bin\Debug\RetriveChassiLogs.pdb
+C:\Users\ktvarno\source\repos\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.csprojResolveAssemblyReference.cache
+C:\Users\ktvarno\source\repos\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.Form1.resources
+C:\Users\ktvarno\source\repos\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.Properties.Resources.resources
+C:\Users\ktvarno\source\repos\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.csproj.GenerateResource.Cache
+C:\Users\ktvarno\source\repos\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.csproj.CoreCompileInputs.cache
+C:\Users\ktvarno\source\repos\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.exe
+C:\Users\ktvarno\source\repos\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.pdb
+C:\All files for work\Work in progress\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\bin\Debug\RetriveChassiLogs.exe.config
+C:\All files for work\Work in progress\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\bin\Debug\RetriveChassiLogs.exe
+C:\All files for work\Work in progress\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\bin\Debug\RetriveChassiLogs.pdb
+C:\All files for work\Work in progress\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.csprojResolveAssemblyReference.cache
+C:\All files for work\Work in progress\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.csproj.ResolveComReference.cache
+C:\All files for work\Work in progress\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.Form1.resources
+C:\All files for work\Work in progress\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.Properties.Resources.resources
+C:\All files for work\Work in progress\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.csproj.GenerateResource.cache
+C:\All files for work\Work in progress\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.csproj.CoreCompileInputs.cache
+C:\All files for work\Work in progress\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.exe
+C:\All files for work\Work in progress\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.pdb
+C:\All Files For Work\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\bin\Debug\RetriveChassiLogs.exe.config
+C:\All Files For Work\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\bin\Debug\RetriveChassiLogs.exe
+C:\All Files For Work\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\bin\Debug\RetriveChassiLogs.pdb
+C:\All Files For Work\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.csprojAssemblyReference.cache
+C:\All Files For Work\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.csproj.ResolveComReference.cache
+C:\All Files For Work\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.Form1.resources
+C:\All Files For Work\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.Properties.Resources.resources
+C:\All Files For Work\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.csproj.GenerateResource.cache
+C:\All Files For Work\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.csproj.CoreCompileInputs.cache
+C:\All Files For Work\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.exe
+C:\All Files For Work\Coding Projects\RetriveChassiLogs\RetriveChassiLogs\obj\Debug\RetriveChassiLogs.pdb

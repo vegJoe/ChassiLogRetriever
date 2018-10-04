@@ -1,0 +1,5 @@
+DeviceID:
+ComputerName:
+UserID:
+Password:
+Write to Excel default on: Yes
